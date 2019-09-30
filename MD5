@@ -1,0 +1,15 @@
+7fbd3238397515447f4afdf7083c0a01 *DESCRIPTION
+e4abe03e87549ee923c478914062d91b *LICENSE
+b4e75bfe76a461f18ae9b7c43bce3dc8 *NAMESPACE
+361274b23684ce66111fb2911a93cf94 *NEWS.md
+0f6ac7c9b9f0051fbd2b0f35b3c3814e *R/dev.off.R
+e4a8fece38903ad254a5b33ce153a3e3 *R/raster_pdf.R
+78bc22ca1dc80b2ea92f5f103c2d2d26 *R/rasterpdf-package.R
+2ea268c93ed2e1fc967b65d0789c2af4 *R/utils.R
+2c12a0009edea618502f9cced3c36e27 *README.md
+2f32c1358a77e2804a1a2d19bb72dbff *man/dev.off.Rd
+e5eb3e3c545231ad87dc8fb7a4307902 *man/raster_pdf.Rd
+45733e604cd9c8190b857447b679a96f *man/rasterpdf.Rd
+52b8ec1f917c18e4580cb5f8a92cfe72 *tests/testthat.R
+5b7efb3cdf30a59b3c6443f1a1f5b53c *tests/testthat/test-raster_pdf.R
+fc55b497adc0ede04043aa78b603a7fc *tests/testthat/test-utils.R
